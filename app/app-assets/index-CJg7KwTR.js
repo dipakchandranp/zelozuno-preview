@@ -1,1 +1,0 @@
-import{j as t}from"./index-gxMWCPdo.js";import{C as o}from"./ComingSoon-B4ezrZuC.js";function i(){return t.jsx(o,{name:"Filling",blurb:"Complete the Malayalam word from its letter tiles."})}export{i as default};
