@@ -16,7 +16,7 @@
     },
     {
       "path": "/games/gap/",
-      "ready": false
+      "ready": true
     }
   ]
 }
