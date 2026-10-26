@@ -1,0 +1,22 @@
+{
+  "base": "/zelozuno-preview/app/",
+  "siteUrl": "https://zelozuno.com/zelozuno-preview/app/",
+  "routes": [
+    {
+      "path": "/",
+      "ready": true
+    },
+    {
+      "path": "/games/add/",
+      "ready": false
+    },
+    {
+      "path": "/games/match/",
+      "ready": false
+    },
+    {
+      "path": "/games/gap/",
+      "ready": false
+    }
+  ]
+}

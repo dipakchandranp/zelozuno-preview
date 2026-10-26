@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zelozuno.com/zelozuno-preview/app/sitemap.xml

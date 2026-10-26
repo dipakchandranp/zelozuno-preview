@@ -1,0 +1,1 @@
+import{j as o}from"./index-gxMWCPdo.js";import{C as n}from"./ComingSoon-B4ezrZuC.js";function a(){return o.jsx(n,{name:"Connection",blurb:"Group 16 Malayalam words into 4 hidden groups."})}export{a as default};
