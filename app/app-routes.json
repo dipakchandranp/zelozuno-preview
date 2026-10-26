@@ -8,7 +8,7 @@
     },
     {
       "path": "/games/add/",
-      "ready": false
+      "ready": true
     },
     {
       "path": "/games/match/",
