@@ -21,6 +21,10 @@
     {
       "path": "/games/gap/",
       "ready": true
+    },
+    {
+      "path": "/games/grid/",
+      "ready": false
     }
   ]
 }
