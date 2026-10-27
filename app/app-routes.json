@@ -24,7 +24,7 @@
     },
     {
       "path": "/games/grid/",
-      "ready": false
+      "ready": true
     }
   ]
 }
