@@ -11,10 +11,6 @@
       "ready": true
     },
     {
-      "path": "/games/add/",
-      "ready": true
-    },
-    {
       "path": "/games/match/",
       "ready": true
     },
