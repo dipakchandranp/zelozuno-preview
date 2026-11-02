@@ -25,6 +25,14 @@
     {
       "path": "/games/trail/",
       "ready": true
+    },
+    {
+      "path": "/blog/",
+      "ready": true
+    },
+    {
+      "path": "/blog/why-malayalam-word-games/",
+      "ready": true
     }
   ]
 }
