@@ -19,10 +19,6 @@
       "ready": true
     },
     {
-      "path": "/games/grid/",
-      "ready": true
-    },
-    {
       "path": "/games/trail/",
       "ready": true
     },
