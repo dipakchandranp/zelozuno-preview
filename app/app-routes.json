@@ -4,31 +4,43 @@
   "routes": [
     {
       "path": "/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     },
     {
       "path": "/apps/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     },
     {
       "path": "/games/match/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     },
     {
       "path": "/games/gap/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     },
     {
       "path": "/games/trail/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
+    },
+    {
+      "path": "/games/swap/",
+      "ready": true,
+      "previewOnly": true
     },
     {
       "path": "/blog/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     },
     {
       "path": "/blog/why-malayalam-word-games/",
-      "ready": true
+      "ready": true,
+      "previewOnly": false
     }
   ]
 }
